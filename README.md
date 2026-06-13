@@ -4,6 +4,11 @@
 
 Permitir que varias computadoras de la red local se conecten a una misma base de datos MySQL instalada en una computadora servidor.
 
+```bash
+CREATE DATABASE sistema_empresa
+CHARACTER SET utf8mb4
+COLLATE utf8mb4_unicode_ci;
+```
 ---
 
 # Información de la Red
